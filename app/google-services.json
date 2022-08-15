@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "15551580329",
+    "firebase_url": "https://attendance-a3ea7.firebaseio.com",
+    "project_id": "attendance-a3ea7",
+    "storage_bucket": "attendance-a3ea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15551580329:android:1e03075aa10de7e6",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.thequizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkXWoKsrSYD0AOIlPds5zFJCAXN2AnN6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15551580329-r3okpdfjna3l8m5rg1j9p6dgakqiud38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
